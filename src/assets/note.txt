@@ -1,0 +1,12 @@
+FPT_PASS=Oaaaebfa123@@
+OFFICE365_FPT_PASS=vxmzkdsggnzqggbr
+
+Thời gian:  8:30 - 11:00 AM Thứ Năm ngày 09/12/2021
+Địa điểm:  Khu Trainning – Tầng G – Ftown 1 – Khu vực sảnh phụ của tòa nhà FT1
+9
+
+
+Sáng: Lên cty ký HĐ
+Chiều:
+    Coi website dự án: SEO + Flow trong giao diện: Chưa có thu hoạch đáng kể
+    Theo hướng dẫn của Dương, a đang build một Ví dụ FE full options theo hướng dẫn, tập trung vào so sánh Composision và Option của Vue 3
